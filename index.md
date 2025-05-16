@@ -11,6 +11,10 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/touchdown-repository/.git/
 ```
+- [X] Headers
+- [X] Image
+- [X] Code example
+- [ ] Task list
 
 
 
@@ -28,5 +32,4 @@ Initialized empty Git repository in /Users/skills/Projects/touchdown-repository/
 
 
 
-
-Worked on markdown headers for the markdown module
+Exercise for the markdown module
